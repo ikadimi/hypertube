@@ -1,0 +1,28 @@
+{
+  "Database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "test",
+    "database": "Hyper_tube"
+  },
+  "Mail": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "iliaskadimichannel@gmail.com",
+      "pass": "clogkmtxnrvrspba"
+    }
+  },
+  "Github": {
+    "GITHUB_CLIENT_ID": "27a9974ecf7cb9a53415",
+    "GITHUB_CLIENT_SECRET": "bbcb8d88ad81aaf0b4a70b7c03a32c9f8c89f1f2",
+    "GITHUB_CALLBACK": "http://localhost:8080/login/github"
+  },
+  "Google": {
+    "clientID": "720391957482-1jhj256krm792l7l8qb3at7jf5qv5ep4.apps.googleusercontent.com",
+    "clientSecret": "VHUrIDb6zlyv7zM-En2Y5D4E",
+    "callbackURL": "http://localhost:8080/login/google"
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "Login": {
+        "login": "S'identifier",
+        "forgot": "MOT DE PASSE OUBLIé ?",
+        "with": "S'indetifié avec ",
+        "new": "S'inscrire",
+        "resset": "Réinitialiser le mot de passe",
+        "success": "Votre compte a été créé avec succès"
+    },
+    "Signup": {
+        "drag": "Glisser votre image",
+        "select": "Sélectionner un fichier",
+        "or": "OU",
+        "signup": "S'inscrire",
+        "del": "Supprimer l'image"
+    },
+    "Settings": {
+        "update": "METTRE Â JOUR LE PROFIL",
+        "profile": "PROFIL",
+        "settings": "PARAMÉTRE",
+        "home": "ACCUEIL",
+        "cheeze": "Définir une nouvelle photo de profil",
+        "success_1": "L'image a été téléchargée avec succès",
+        "success_2": "Données mises à jour avec succès"
+    },
+    "LoginError": {
+        "err_1": "Mauvais nom d'utilisateur",
+        "err_2": "Mauvais mot de passe",
+        "err_3": "Courrier n'est pas vérifié",
+        "err_4": "Email or Username Already Exists",
+        "err_5": "Autorisation failed",
+        "err_6": "Minor difficulty Repeat the same action please"
+    },
+    "RegistreError": {
+        "err_1": "Le prénom doit avoir entre 3 et 20 et seulement alphabétique",
+        "err_2": "Nom de famille doit avoir entre 3 et 20 et seulement alphabétique",
+        "err_3": "Le nom d'utilisateur doit avoir entre 3 et 20 et seulement Alphanum",
+        "err_4": "L'email n'est pas valide",
+        "err_5": "Le mot de passe nécessite 1 lettre minuscule, 1 majuscule, 1 chiffre et entre 5 et 20",
+        "err_6": "Nom d'utilisateur existe déjà",
+        "err_7": "Email existe déjà",
+        "err_8": "Le fichier téléchargé n'est pas une image",
+        "err_9": "Aucun fichier sélectionné",
+        "success": "Mises à jour avec succès"
+      },
+    "Home": {
+        "rating": "Évaluation IMDB:",
+        "year": "Année de production:"
+    },
+    "Landing": {
+        "title": "Regarder des films en accès illimité ",
+        "title_2": "Cela ne prend qu'une minute pour vous inscrire à votre compte",
+        "signup": "S'inscrire maintenant",
+        "login": "S'identifier"
+    },
+    "Video": {
+        "prody": "Année de production :",
+        "dur": "Durée :",
+        "prod": "Production :",
+        "direct": "Réalisateur :",
+        "write": "Écrivains :",
+        "stars": "Acteurs :",
+        "comment": "commentaires"
+    },
+    "Forgot": {
+        "success": "Veuillez vérifier votre courrier pour ressaisir votre mot de passe",
+        "success_2": "Vous avez réinitialisé votre mot de passe avec succès",
+        "err_1": "Aucun compte n'a cet email",
+        "err_2": "Cet email n'est pas enregistré",
+        "err_3": "Difficulté mineure Répétez la même action s'il vous plaît",
+        "err_4": "Le mot de passe ne correspond pas",
+        "err_5": "Le mot de passe nécessite 1 lettre minuscule, 1 majuscule, 1 chiffre et entre 5 et 20",
+        "err_6": "La valeur de la clé est invalide",
+        "err_7": "Courrier n'est pas vérifié",
+        "err_8": "Ceci est votre mot de passe actuel"
+    },
+    "bar": {
+        "settings": "Paramètres",
+        "profile": "Profil",
+        "list": "Liste",
+        "logout": "Se déconnecter",
+        "home": "Accueil"
+      }
+}

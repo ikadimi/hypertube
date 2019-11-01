@@ -1,0 +1,88 @@
+{
+  "Login": {
+    "login": "Login",
+    "forgot": "FORGOT PASSWORD ?",
+    "with": "Login with ",
+    "new": "SIGNUP",
+    "resset": "Resset password",
+    "success": "Your account was created successfully"
+  },
+  "Signup": {
+      "drag": "Drag your image",
+      "select": "Select a file",
+      "or": "OR",
+      "signup": "Signup",
+      "del": "Delete image"
+  },
+  "Settings": {
+      "update": "UPDATE PROFILE",
+      "profile": "PROFILE",
+      "settings": "SETTINGS",
+      "home": "HOME",
+      "cheeze": "Set new profile picture",
+      "success_1": "Image was uploaded successfully",
+      "success_2": "Data Updated successfully"
+  },
+  "notice": {
+    "msg": "You have {noticeType} message"
+  },
+  "LoginError": {
+    "err_1": "Wrong username",
+    "err_2": "Wrong password",
+    "err_3": "Mail is not verified",
+    "err_4": "Email or Username Already Exists",
+    "err_5": "Autorisation failed",
+    "err_6": "Minor difficulty Repeat the same action please"
+  },
+  "RegistreError": {
+    "err_1": "First name must have between 3 and 20 and only Alphabetic",
+    "err_2": "last name must have between 3 and 20 and only Alphabetic",
+    "err_3": "Username must have between 3 and 20 and only Alphanum",
+    "err_4": "Email is not Valid",
+    "err_5": "Password requires 1 lower 1 upper case letter and 1 digit and between 5 and 20",
+    "err_6": "Username Already Exists",
+    "err_7": "Email Already Exists",
+    "err_8": "File uploaded is not an image",
+    "err_9": "No File Selected",
+    "err_10": "Minor difficulty Repeat the same action please",
+    "success": "Data Updated successfully"
+  },
+  "Home": {
+      "rating": "IMDB évaluation:",
+      "year": "Production year:"
+  },
+  "Landing": {
+    "title": "Watch movies in unlimited access ",
+    "title_2": "It only takes a minute to register for your account",
+    "signup": "Signup now",
+    "login": "Login"
+  },
+  "Video": {
+    "prody": "Production year :",
+    "dur": "Duration :",
+    "prod": "Production :",
+    "direct": "Director :",
+    "write": "Writers :",
+    "stars": "Stars :",
+    "comment": "Comments"
+  },
+  "Forgot": {
+    "success": "Please Check your Email to Resset your password",
+    "success_2": "You successfully reset your password",
+    "err_1": "No account has this Email",
+    "err_2": "This email is not registred",
+    "err_3": "Minor difficulty Repeat the same action please",
+    "err_4": "Password doesn't match",
+    "err_5": "Password requires 1 lower 1 upper case letter and 1 digit and between 5 and 20",
+    "err_6": "Key Value is invalid",
+    "err_7": "Mail is not verified",
+    "err_8": "This is your actual password"
+  },
+  "bar": {
+    "settings": "Settings",
+    "profile": "Profile",
+    "list": "List",
+    "logout": "Logout",
+    "home": "Home"
+  }
+}
